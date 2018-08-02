@@ -2,4 +2,4 @@
 Design Pattern Lab
 
 
-![screenshot](./screenshot.jpg)
+![screenshot](Screenshot.jpg)
