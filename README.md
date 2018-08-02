@@ -11,7 +11,7 @@ The primary advantage of a factory design model is that components can be used i
 
 In this project, the object type is a document, which comes either as Divorce Papers or a Resume. Each type of paper is gathered within the factory of a document creator, which can then be referenced by another class to create a new paper. The screenshot with the console output is shown below:
 
-![screenshot](screenshot.jpg)
+![screenshot](Screenshot.jpg)
 
 ## How to Use
 This program requires Visual Studio. There are no databases or live deployments. All a user has to do is navigate and run the program.cs file to see the output. A user can also manually change the type of document created, though for both Divorce Papers and Resumes the console output will stay the same.
