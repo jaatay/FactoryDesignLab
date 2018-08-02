@@ -9,6 +9,8 @@ namespace FactoryDesign
         {
             Console.WriteLine("Hello World!");
             DocumentCreateTest();
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadLine();
         }
 
         public static void DocumentCreateTest()
