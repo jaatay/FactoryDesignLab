@@ -2,7 +2,7 @@
 
 namespace FactoryDesign.Classes
 {
-    public class ResumeCreator: ResumeConcrete
+    public class DivorcePapers: Document
     {
        
     }
